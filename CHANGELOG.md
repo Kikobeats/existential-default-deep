@@ -1,3 +1,10 @@
+<a name="1.0.0"></a>
+# 1.0.0 (2016-04-30)
+
+* first commit ([9cd3b9a](https://github.com/kikobeats/existential-default-deep/commit/9cd3b9a))
+
+
+
 <a name="1.3.0"></a>
 # 1.3.0 (2016-04-30)
 

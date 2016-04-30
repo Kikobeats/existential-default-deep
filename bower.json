@@ -2,7 +2,7 @@
   "name": "existential-default-deep",
   "description": "Check for the existential value of a variable. Assign value by default.",
   "homepage": "https://github.com/Kikobeats/existential-default-deep",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "dist/existential-default-deep.js",
   "authors": [
     "Kiko Beats josefrancisco.verdu@gmail.com"
@@ -15,12 +15,12 @@
     "url": "https://github.com/kikobeats/existential-default-deep/issues"
   },
   "keywords": [
+    "deep",
     "default",
     "existence",
     "existential",
     "exists",
-    "operator",
-    "deep"
+    "operator"
   ],
   "ignore": [
     "**/.*",
