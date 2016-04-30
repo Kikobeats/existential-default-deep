@@ -1,0 +1,33 @@
+{
+  "name": "existential-default-deep",
+  "description": "Check for the existential value of a variable. Assign value by default.",
+  "homepage": "https://github.com/Kikobeats/existential-default-deep",
+  "version": "0.0.0",
+  "main": "dist/existential-default-deep.js",
+  "authors": [
+    "Kiko Beats josefrancisco.verdu@gmail.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/existential-default-deep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kikobeats/existential-default-deep/issues"
+  },
+  "keywords": [
+    "default",
+    "existence",
+    "existential",
+    "exists",
+    "operator",
+    "deep"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
