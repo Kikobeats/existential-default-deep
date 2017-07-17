@@ -1,5 +1,7 @@
 # existential-default-deep
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/existential-default-deep.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/existential-default-deep.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/existential-default-deep/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/existential-default-deep)
 [![Dependency status](http://img.shields.io/david/Kikobeats/existential-default-deep.svg?style=flat-square)](https://david-dm.org/Kikobeats/existential-default-deep)
